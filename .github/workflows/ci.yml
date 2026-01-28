@@ -31,8 +31,8 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: main
+        working-directory: /home/runner/work/COMP2156/main
 
       - name: Run tests
         run: npm test
-        working-directory: main
+        working-directory: /home/runner/work/COMP2156/main
