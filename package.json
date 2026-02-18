@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/johnston-557/COMP2156",
+  "homepage": "https://johnston-557.github.io/COMP2156",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
